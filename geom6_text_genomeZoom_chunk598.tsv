@@ -1,0 +1,19 @@
+group	label	showSelected1
+1	Cluster 10: 409/27496 pixels shown, logFC -3.7 to 5.8, log10(p) 0.0 to 9.9	10
+1	Cluster 179: 294/401 pixels shown, logFC -3.3 to 4.1, log10(p) 0.0 to 3.0	179
+1	Cluster 196: 1581/2090 pixels shown, logFC -0.5 to 7.0, log10(p) 0.1 to 16.3	196
+1	Cluster 204: 258/1458 pixels shown, logFC -2.7 to 6.8, log10(p) 0.1 to 14.1	204
+1	Cluster 249: 353/353 pixels shown, logFC -1.0 to 6.1, log10(p) 0.0 to 9.0	249
+1	Cluster 374: 99/298 pixels shown, logFC -3.1 to 5.6, log10(p) 0.1 to 8.1	374
+1	Cluster 492: 24/686 pixels shown, logFC -2.2 to 5.4, log10(p) 0.0 to 5.7	492
+1	Cluster 499: 373/2355 pixels shown, logFC -2.2 to 6.4, log10(p) 0.0 to 11.2	499
+1	Cluster 721: 14/805 pixels shown, logFC -1.3 to 6.7, log10(p) 0.0 to 15.4	721
+1	Cluster 1363: 18/233 pixels shown, logFC -3.3 to 4.7, log10(p) 0.0 to 4.2	1363
+1	Cluster 1612: 543/964 pixels shown, logFC 1.8 to 7.2, log10(p) 1.8 to 22.9	1612
+1	Cluster 1747: 1/122 pixels shown, logFC 0.8 to 6.6, log10(p) 0.3 to 14.5	1747
+1	Cluster 1772: 39/121 pixels shown, logFC -0.5 to 4.3, log10(p) 0.0 to 5.9	1772
+1	Cluster 1814: 113/201 pixels shown, logFC -1.3 to 5.5, log10(p) 0.0 to 5.8	1814
+1	Cluster 2345: 169/548 pixels shown, logFC -0.6 to 6.6, log10(p) 0.0 to 13.3	2345
+1	Cluster 2511: 557/580 pixels shown, logFC -2.7 to 5.2, log10(p) 0.0 to 6.3	2511
+1	Cluster 2754: 19/114 pixels shown, logFC -1.0 to 5.5, log10(p) 0.1 to 5.7	2754
+1	Cluster 2756: 98/201 pixels shown, logFC -2.2 to 4.1, log10(p) 0.0 to 2.5	2756
